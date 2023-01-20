@@ -17,7 +17,7 @@
 
 ### 步迹<br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightSunMor&layout=compact&theme=buefy&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morsun&layout=compact&theme=buefy&hide_border=true" />
 <!-- github使用语言 -->
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=morsun&theme=dark&layout=compact) -->
 
