@@ -13,11 +13,11 @@
 
 ### Github提交次数<br/>
 #### 流水不争先，争的是滔滔不绝<br/>
-![GithubStats](https://github-readme-stats.vercel.app/api?username=morsun&show_icons=true&theme=dark&count_private=true)
+![GithubStats](https://github-readme-stats.vercel.app/api?username=LightSunMor&show_icons=true&theme=dark&count_private=true)
 
 ### 步迹<br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morsun&layout=compact&theme=buefy&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightSunMor&layout=compact&theme=buefy&hide_border=true" />
 <!-- github使用语言 -->
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=morsun&theme=dark&layout=compact) -->
 
